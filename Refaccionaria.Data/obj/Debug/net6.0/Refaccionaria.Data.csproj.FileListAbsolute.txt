@@ -1,0 +1,14 @@
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\bin\Debug\net6.0\Refaccionaria.Data.deps.json
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\bin\Debug\net6.0\Refaccionaria.Data.runtimeconfig.json
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\bin\Debug\net6.0\Refaccionaria.Data.dll
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\bin\Debug\net6.0\Refaccionaria.Data.pdb
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.csproj.AssemblyReference.cache
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.AssemblyInfoInputs.cache
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.AssemblyInfo.cs
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.dll
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\refint\Refaccionaria.Data.dll
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.pdb
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\Refaccionaria.Data.genruntimeconfig.cache
+C:\Users\Aldo Euan\source\repos\RefaccionariaBackendApi\Refaccionaria.Data\obj\Debug\net6.0\ref\Refaccionaria.Data.dll
